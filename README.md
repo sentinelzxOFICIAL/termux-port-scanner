@@ -26,7 +26,7 @@ A simple and efficient port scanner script for Termux, written in Python.
 3. Clone the repository:
     ```bash
     git clone https://github.com/sentinelzxOFICIAL/termux-port-scanner.
-    cd termux-port-scanner
+    cd termux-port-scanner.
     ```
 
 ## Usage
