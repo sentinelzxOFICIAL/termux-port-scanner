@@ -33,7 +33,7 @@ A simple and efficient port scanner script for Termux, written in Python.
 
 1. Navigate to the project directory:
     ```bash
-    cd termux-port-scanner
+    cd termux-port-scanner.
     ```
 2. Run the script:
     ```bash
